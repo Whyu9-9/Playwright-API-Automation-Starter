@@ -1,0 +1,4 @@
+When you want to upload files to this framework, use the file naming format below.
+
+File Name: {status}_{mimetype}_{filetype}.{extension}
+Example: valid_png_image.png
