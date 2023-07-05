@@ -11,7 +11,7 @@ To use this starter project for API testing, please follow the installation guid
 Clone this repository on your workspace with the following command:
 
 ```bash
-git clone https://github.com/Whyu9-9/playwright-api-automation-starter.git
+git clone https://github.com/Whyu9-9/Playwright-API-Automation-Starter.git
 ```
 
 ## 2. Run npm install
