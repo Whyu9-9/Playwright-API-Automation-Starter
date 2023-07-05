@@ -55,7 +55,13 @@ This is the list of command that are available for you to run on this project. S
     #to auto-generate API Testing code
     npm run generate-test
 ```
-
+# Documentation
+Here is a list of documentation for easing your automation testing development
+1. [Playwright API Testing Documentation](https://playwright.dev/docs/test-api-testing)
+2. [Allure Playwright Documentation](https://www.npmjs.com/package/allure-playwright)
+3. [Generate Template File Documentation](https://www.npmjs.com/package/generate-template-files)
+4. [Typescript Documentation](https://www.typescriptlang.org/docs/)
+5. [Mimetype Documentation](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types)
 # Authors and acknowledgment
 This repository is created and maintained by me myself
 
